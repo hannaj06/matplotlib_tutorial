@@ -12,5 +12,5 @@ plt.show()
 
 
 plt.hist(random_nums, bins, histtype='bar', cumulative=True, rwidth=0.8)
-plt.title('Histogram Example')
+plt.title('Histogram Cumulative Example')
 plt.show()
